@@ -1,24 +1,24 @@
-## Student Name (or name you would preferred to be called)
+## Student Name Alan
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Pre Calc
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Introduction to Python
 
-- Course 4
+- Foundations for Academic Success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Singing
 
-- Thing 2
+- Saxophone 
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
